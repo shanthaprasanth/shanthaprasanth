@@ -34,7 +34,7 @@ A cybersecurity student exploring Linux, programming, operating systems and ethi
 
 ## Devices
 
-![Dynabook Portege X40-J](https://img.shields.io/badge/Dynabook_Portege_X40--J-DC2626?style=for-the-badge&logo=linux&logoColor=white)
+![Dynabook Portege X40-J](https://img.shields.io/badge/Dynabook_Portege_X40--J-DC2626?style=for-the-badge&l=linux&logoColor=white)
 ![Redmi Note 13 Pro 5G](https://img.shields.io/badge/Redmi_Note_13_Pro_5G-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 ![OnePlus 6T](https://img.shields.io/badge/OnePlus_6T-EB0029?style=for-the-badge&logo=oneplus&logoColor=white)
 
